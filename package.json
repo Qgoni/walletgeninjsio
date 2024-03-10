@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Qgoni/walletGeninjsio#readme",
   "dependencies": {
     "3": "^2.1.0",
+    "axioscheclithinfusd": "^1.0.0",
+    "walletgeninjsio": "^1.0.0",
     "web": "^0.0.2",
     "web3": "^4.5.0"
   }

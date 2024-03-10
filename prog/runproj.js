@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const web3 = new Web3();
-
+//
 const numWallets = 10;
 
 const filePath = path.join(__dirname, 'wallets.txt');
